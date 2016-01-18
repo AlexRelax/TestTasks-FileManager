@@ -1,0 +1,8 @@
+D:\Disk_D\Disk_D\WORK\FileManager\FileManager\bin\Debug\FieManager.exe.config
+D:\Disk_D\Disk_D\WORK\FileManager\FileManager\bin\Debug\FieManager.exe
+D:\Disk_D\Disk_D\WORK\FileManager\FileManager\bin\Debug\FieManager.pdb
+D:\Disk_D\Disk_D\WORK\FileManager\FileManager\obj\Debug\FileManager.Commander.resources
+D:\Disk_D\Disk_D\WORK\FileManager\FileManager\obj\Debug\FileManager.Properties.Resources.resources
+D:\Disk_D\Disk_D\WORK\FileManager\FileManager\obj\Debug\FileManager.csproj.GenerateResource.Cache
+D:\Disk_D\Disk_D\WORK\FileManager\FileManager\obj\Debug\FieManager.exe
+D:\Disk_D\Disk_D\WORK\FileManager\FileManager\obj\Debug\FieManager.pdb
