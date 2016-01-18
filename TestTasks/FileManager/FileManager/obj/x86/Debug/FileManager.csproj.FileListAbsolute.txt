@@ -1,0 +1,7 @@
+D:\TestTasks\TestTasks\FileManager\FileManager\obj\x86\Debug\FileManager.Commander.resources
+D:\TestTasks\TestTasks\FileManager\FileManager\obj\x86\Debug\FileManager.Properties.Resources.resources
+D:\TestTasks\TestTasks\FileManager\FileManager\obj\x86\Debug\FileManager.csproj.GenerateResource.Cache
+D:\TestTasks\TestTasks\FileManager\FileManager\bin\Debug\FileManager.exe
+D:\TestTasks\TestTasks\FileManager\FileManager\bin\Debug\FileManager.pdb
+D:\TestTasks\TestTasks\FileManager\FileManager\obj\x86\Debug\FileManager.exe
+D:\TestTasks\TestTasks\FileManager\FileManager\obj\x86\Debug\FileManager.pdb
